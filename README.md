@@ -9,4 +9,5 @@ A Structured Self-attentive Sentence Embedding [arxiv](https://arxiv.org/abs/170
 
 
 2016 - 12
+
 Tracking the World State with Recurrent Entity Networks [arxiv](https://arxiv.org/abs/1612.03969)
