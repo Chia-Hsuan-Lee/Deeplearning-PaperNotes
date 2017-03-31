@@ -10,8 +10,6 @@ A Structured Self-attentive Sentence Embedding [arxiv](https://arxiv.org/abs/170
 
 2016 - 12
 
-Tracking the World State with Recurrent Entity Networks [arxiv](https://arxiv.org/abs/1612.03969)
-
 ● Machine Comprehension / Question Anxswering 
 
 Neural Turing Machines [arxiv](https://arxiv.org/abs/1410.5401)
@@ -25,6 +23,7 @@ Dynamic Memory Networks for Visual and Textual Question Answering [arxiv](https:
 Tracking the World State with Recurrent Entity Networks [arxiv](https://arxiv.org/abs/1612.03969)
 
 - TOEFL
+
 Towards Machine Comprehension of Spoken Content: Initial TOEFL Listening Comprehension Test by Machine [arxiv](https://arxiv.org/abs/1608.06378)
 
 Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content [arxiv](https://arxiv.org/abs/1608.07775) 
