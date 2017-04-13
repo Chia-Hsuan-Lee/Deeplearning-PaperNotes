@@ -27,3 +27,11 @@ Tracking the World State with Recurrent Entity Networks [arxiv](https://arxiv.or
 Towards Machine Comprehension of Spoken Content: Initial TOEFL Listening Comprehension Test by Machine [arxiv](https://arxiv.org/abs/1608.06378)
 
 Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content [arxiv](https://arxiv.org/abs/1608.07775) 
+
+- Representation of words 
+
+Exploiting Similarities among Languages for Machine Translation [arxiv](https://arxiv.org/abs/1309.4168)
+
+Distributed Representations of Sentences and Documents [arxiv](https://arxiv.org/abs/1405.4053)
+
+Skip-Thought Vectors [arxiv](https://arxiv.org/abs/1506.06726)
