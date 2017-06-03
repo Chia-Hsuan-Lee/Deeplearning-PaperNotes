@@ -1,6 +1,7 @@
 # Deeplearning_PaperNotes
 
 ● Machine Comprehension / Question Anxswering 
+
 -Memory Module
 
 Neural Turing Machines [arxiv](https://arxiv.org/abs/1410.5401)
@@ -22,14 +23,14 @@ A Comparative Study of Word Embeddings for Reading Comprehension [arxiv](https:/
 A Structured Self-attentive Sentence Embedding [arxiv](https://arxiv.org/abs/1703.03130)
 
 
-- TOEFL
+-TOEFL
 
 Towards Machine Comprehension of Spoken Content: Initial TOEFL Listening Comprehension Test by Machine [arxiv](https://arxiv.org/abs/1608.06378)
 
 Hierarchical Attention Model for Improved Machine Comprehension of Spoken Content [arxiv](https://arxiv.org/abs/1608.07775) 
 
 
-- Representation of words 
+-Representation of words 
 
 Exploiting Similarities among Languages for Machine Translation [arxiv](https://arxiv.org/abs/1309.4168)
 
