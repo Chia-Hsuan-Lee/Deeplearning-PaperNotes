@@ -40,16 +40,16 @@ Skip-Thought Vectors [arxiv](https://arxiv.org/abs/1506.06726)
 
 ● Representation of Audio
 
-Audio Word2Vec [arxiv](https://arxiv.org/abs/1603.00982) 2016/3
+Audio Word2Vec [arxiv](https://arxiv.org/abs/1603.00982) [2016/3]
 
-Deep convolutional acoustic word embeddings using word-pair side information [arxiv](https://arxiv.org/abs/1510.01032) 2015/10
+Deep convolutional acoustic word embeddings using word-pair side information [arxiv](https://arxiv.org/abs/1510.01032) [2015/10]
 
-Learning Latent Representations for Speech Generation and Transformation [arxiv](https://arxiv.org/abs/1704.04222) 2017/4
+Learning Latent Representations for Speech Generation and Transformation [arxiv](https://arxiv.org/abs/1704.04222) [2017/4]
 
 
 ● Text Generation
 
-Controllable Text Generation [arxiv](https://arxiv.org/abs/1703.00955) 2017/3
+Controllable Text Generation [arxiv](https://arxiv.org/abs/1703.00955) [2017/3]
 
 
 
