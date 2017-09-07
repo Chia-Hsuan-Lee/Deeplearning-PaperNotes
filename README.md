@@ -38,6 +38,10 @@ Distributed Representations of Sentences and Documents [arxiv](https://arxiv.org
 
 Skip-Thought Vectors [arxiv](https://arxiv.org/abs/1506.06726)
 
+Learned in Translation: Contextualized Word Vectors[arxiv](https://arxiv.org/pdf/1708.00107.pdf)
+├ Learn Word vectors by training on English-German Translation(ATTENTIONAL SeqtoSeq)
+Learning Context-Specific Word/Character Embeddings [AAAI] (https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14601/14266)
+├ Learn Multi-Sense Vector for different meannings of single word, letting machine to deicide when to generate new sense
 
 ● Representation of Audio
 
