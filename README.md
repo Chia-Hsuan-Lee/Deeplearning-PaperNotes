@@ -79,9 +79,9 @@ Controllable Text Generation [arxiv](https://arxiv.org/abs/1703.00955) [2017/3]
 Diversity driven Attention Model for Query-based Abstractive Summarization [arxiv](https://arxiv.org/abs/1704.08300) [2017/4]
 ├ Solve the problem of redundant, repitetive words in summary. Use math-orthogonal to obtain attention vector.
 
-
-Attention Is All You Need
-
+● Generalized / Miscellaneous
+Attention Is All You Need [arxiv] (https://arxiv.org/abs/1706.03762) [2017/6]
+├ No Convolution and recurrence, pure attention. Use multi-head to grasp various attention of the inputs ( self-attention )
 
 
 
