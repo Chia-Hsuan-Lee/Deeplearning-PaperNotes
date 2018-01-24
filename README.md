@@ -85,7 +85,8 @@ Order-Preserving Abstractive Summarization for Spoken Content Based on Connectio
 A Deep Reinforced Model for Abstractive Summarization  https://arxiv.org/abs/1705.04304
 
 LEARNING TO ENCODE TEXT AS HUMAN-READABLE SUMMARIES USING GENERATIVE ADVERSARIAL NETWORKS  https://openreview.net/pdf?id=r1kNDlbCb
-----
+
+
 Diversity driven Attention Model for Query-based Abstractive Summarization [arxiv](https://arxiv.org/abs/1704.08300) [2017/4]
 ├ Solve the problem of redundant, repitetive words in summary. Use math-orthogonal to obtain attention vector.
 
