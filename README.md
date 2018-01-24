@@ -76,10 +76,23 @@ Controllable Text Generation [arxiv](https://arxiv.org/abs/1703.00955) [2017/3]
 
 ● Summary 
 
+Get To The Point: Summarization with Pointer-Generator Networks https://arxiv.org/pdf/1704.04368.pdf
+
+ABSTRACTIVE HEADLINE GENERATION FOR SPOKEN CONTENT BY ATTENTIVE RECURRENT NEURAL NETWORKS WITH ASR ERROR MODELING  https://arxiv.org/pdf/1612.08375.pdf
+
+Order-Preserving Abstractive Summarization for Spoken Content Based on Connectionist Temporal Classification  https://arxiv.org/pdf/1709.05475v2.pdf
+
+A Deep Reinforced Model for Abstractive Summarization  https://arxiv.org/abs/1705.04304
+
+LEARNING TO ENCODE TEXT AS HUMAN-READABLE SUMMARIES USING GENERATIVE ADVERSARIAL NETWORKS  https://openreview.net/pdf?id=r1kNDlbCb
+----
 Diversity driven Attention Model for Query-based Abstractive Summarization [arxiv](https://arxiv.org/abs/1704.08300) [2017/4]
 ├ Solve the problem of redundant, repitetive words in summary. Use math-orthogonal to obtain attention vector.
 
+
+
 ● Generalized / Miscellaneous
+
 Attention Is All You Need [arxiv] (https://arxiv.org/abs/1706.03762) [2017/6]
 ├ No Convolution and recurrence, pure attention. Use multi-head to grasp various attention of the inputs ( self-attention )
 
